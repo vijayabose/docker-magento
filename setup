@@ -1,3 +1,4 @@
+#!/bin/bash
 ##
 # Set up script to clone magento
 # Run this script only for the first time when you set up the application
@@ -12,4 +13,4 @@ then
 	git clone https://github.com/OpenMage/magento-mirror.git magento
 	popd
 fi
-docker build -t magento .
+docker build -t magento config/
