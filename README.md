@@ -8,8 +8,7 @@ Application mainly focus on creating a new docker container with all the magento
 
 > This container is tested only in Mac OSX and if you are facing issues feel free to comment or email.
 
-### Version
-0.0.1
+### Version 0.0.1
 
 ### Features
 * Docker file with all box setup
@@ -18,7 +17,7 @@ Application mainly focus on creating a new docker container with all the magento
 
 ### Installation
 
-Check out this git reposirtoy to any location in your system. Open docker terminal and execute the following commands 
+Check out the latest git reposirtoy tag of this application to any location in your computer. Open docker terminal and execute the following commands 
 
 ```sh
 # Setup a basic docker box with all dependencies for magento.
